@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TextFeedTitle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
 </resources>
